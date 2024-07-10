@@ -22,7 +22,7 @@ module.exports = {
   },
   plugins: [
     'react', // Ensure 'react' plugin is included if using React rules
-    // 'react-refresh' // Uncomment this if 'eslint-plugin-react-refresh' is installed and needed
+    'react-refresh' 
   ],
   rules: {
     'react/jsx-no-target-blank': 'off', // Example of overriding a rule
