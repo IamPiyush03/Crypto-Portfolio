@@ -28,10 +28,33 @@
 
    Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Usage
 
-To use Crypto Portfolio, simply navigate through different pages to view cryptocurrency prices, track your portfolio, and explore various features.
 
+## Technologies Used
+
+React
+
+ReactRouter
+
+Chakra UI
+
+Chart.js
+
+Axios
+
+Framer Motion
+
+
+## Features
+
+
+Track cryptocurrency prices in real-time.
+
+Manage and visualize your crypto portfolio.
+
+View detailed information about individual cryptocurrencies.
+
+Interactive charts to analyze historical data.
 
 ---
 
