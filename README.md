@@ -32,9 +32,6 @@
 
 To use Crypto Portfolio, simply navigate through different pages to view cryptocurrency prices, track your portfolio, and explore various features.
 
-## Screenshots
-
-Insert screenshots or GIFs here to demonstrate how the project works.
 
 ---
 
